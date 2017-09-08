@@ -1,0 +1,16 @@
+{
+  "name": "screen-lock",
+  "version": "1.0.0",
+  "description": "lock screen by electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dengyaolong",
+  "license": "ISC",
+  "dependencies": {
+    "lockscreen": "^1.0.0",
+    "menubar": "^5.2.3"
+  }
+}

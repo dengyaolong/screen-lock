@@ -1,7 +1,7 @@
 # screen-lock
 A screen lock application built by electron
 
-#Usage
+# Usage
 ```
 git clone https://github.com/dengyaolong/screen-lock.git
 cd screen-lock
